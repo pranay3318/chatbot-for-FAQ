@@ -1,4 +1,4 @@
-# 🤖 AI FAQ Chatbot
+# 🤖 AI FAQ Chatbot.
 
 An intelligent chatbot application that answers frequently asked questions using natural language processing and machine learning. This project includes both a desktop GUI version and a web-based interface.
 
